@@ -1,6 +1,6 @@
 # Canada Number Validator
 
-![Image]()
+![Image](https://raw.githubusercontent.com/thepythoncode97/canada-number-validator/main/Canada_Number_Validator.png)
 
 ### Features
 - **Unlimited Checking**: Validate as many phone numbers as you need without restrictions.
