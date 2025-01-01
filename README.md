@@ -6,7 +6,7 @@
 - **5000 Number Check per Minute**: Fast and efficient number validation.
 - **100% Accurate Checking**: Ensure the accuracy of the phone numbers.
 - **Filter Numbers By Type**: Includes Mobile, Landline, VOIP, and more.
-- **Filter Numbers By Carrier**: Check numbers by popular carriers such as T-Mobile, Verizon Wireless, and others.
+- **Filter Numbers By Carrier**: Check numbers by popular carriers.
 - **Bulk Import**: Import any quantity of phone numbers for validation.
 - **TurboServer for Large Requests**: Can handle large volumes of requests smoothly.
 - **Always Active Servers**: Reliable service with minimal downtime.
