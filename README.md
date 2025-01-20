@@ -18,4 +18,4 @@ To buy the service, contact me on Telegram: [@alexrony21](https://t.me/alexrony2
 
 ---
 
-*Note: This service is designed to ensure accurate validation of USA phone numbers for businesses and marketers*
+*Note: This service is designed to ensure accurate validation of Canada phone numbers for businesses and marketers*
