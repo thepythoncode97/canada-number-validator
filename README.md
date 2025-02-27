@@ -1,9 +1,10 @@
 # Canada Number Validator
 
-![image](https://raw.githubusercontent.com/alexrony21/Canada-Number-Validator/refs/heads/main/Canada_Phone_Number_Validator.png)
+![image](https://raw.githubusercontent.com/alexrony21/Canada-Number-Validator/refs/heads/main/Canada_Number_Validator.png)
+![image](https://raw.githubusercontent.com/alexrony21/Canada-Number-Validator/refs/heads/main/Canada_Number_Carrier_Name.png)
 
 ### Features:
-- **5000 Number Check per Minute**: Fast and efficient number validation.
+- **25k Number Check per Minute**: Fast and efficient number validation.
 - **100% Accurate Checking**: Ensure the accuracy of the phone numbers.
 - **Filter Numbers By Type**: Includes Mobile, Landline, VOIP, and more.
 - **Filter Numbers By Carrier**: Check numbers by popular carriers.
