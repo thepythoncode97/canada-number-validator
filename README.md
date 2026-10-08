@@ -1,7 +1,7 @@
 # Canada Number Validator
 
-![Canada Number Validator](https://raw.githubusercontent.com/thepythoncode97/canada-number-validator/refs/heads/main/Canada_Number_Validator.png)
-![Canada Number Validator](https://raw.githubusercontent.com/thepythoncode97/canada-number-validator/refs/heads/main/Canada_Number_Carrier_Name.png)
+![Canada Number Validator](https://raw.githubusercontent.com/pythonsoftware26/canada-phone-number-validator/refs/heads/main/canada-phone-number-validator.png)
+![Canada Number Validator](https://raw.githubusercontent.com/pythonsoftware26/canada-phone-number-validator/refs/heads/main/canada-phone-number-carrier-checker.png)
 
 ### Features:
 - **25k Number Check per Minute**: Fast and efficient number validation.
